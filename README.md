@@ -3,7 +3,7 @@
 ### Sections to format (normal)
 - [X] IMPRESSIONS
 - [X] CLICKS
-- [ ] CPC
+- [X] CPC
 - [ ] COST
 - [ ] SUB CONVERSIONS
 - [ ] CONVERSIONS
