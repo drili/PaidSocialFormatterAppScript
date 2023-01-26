@@ -1,12 +1,21 @@
 # Paid Social App Script Formatter
 
-### Sections to format
-- [] IMPRESSIONS
-- [] CLICKS
-- [] CPM
-- [] COST
-- [] SUB CONVERSIONS
-- [] CONVERSIONS
+### Sections to format (normal)
+- [X] IMPRESSIONS
+- [ ] CLICKS
+- [ ] CPC
+- [ ] COST
+- [ ] SUB CONVERSIONS
+- [ ] CONVERSIONS
+- [ ] CONVERSION RATE
+- [ ] SUB CONVERSION VALUE
+- [ ] CONVERSION VALUE
+- [ ] CONVERSION VALUE / COST
+- [ ] CLICK-THROUGH RATE (CTR)
+
+### Sections to format (anormal)
+- [ ] COST PER CONVERSIONS
+- [ ] CPM
 
 ### Misc
 
