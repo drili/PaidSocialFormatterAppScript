@@ -2,7 +2,7 @@
 
 ### Sections to format (normal)
 - [X] IMPRESSIONS
-- [ ] CLICKS
+- [X] CLICKS
 - [ ] CPC
 - [ ] COST
 - [ ] SUB CONVERSIONS
@@ -11,7 +11,7 @@
 - [ ] SUB CONVERSION VALUE
 - [ ] CONVERSION VALUE
 - [ ] CONVERSION VALUE / COST
-- [ ] CLICK-THROUGH RATE (CTR)
+- [X] CLICK-THROUGH RATE (CTR)
 
 ### Sections to format (anormal)
 - [ ] COST PER CONVERSIONS
